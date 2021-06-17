@@ -1,0 +1,65 @@
+.container {
+    text-align: center;
+}
+
+.appTitle {
+    font-size: 45px;
+}
+
+.qaContainer {
+    margin-top: 20px;
+}
+
+.qaRow {
+    height: 400px;
+}
+
+.sectionTitle {
+    margin-bottom: 30px;
+    font-size: 30px;
+    text-shadow: 2px 2px gray;
+}
+
+.questionText {
+    font-size: 25px;
+}
+
+.answerButton {
+    width: 60%;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.answerCorrect, .answerWrong {
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 25px;
+}
+
+.answerCorrect {
+    color: green;
+}
+
+.answerWrong {
+    color: red;
+}
+
+.statusRow {
+    margin-top: 15px;
+}
+
+.gameOverTitle {
+    font-size: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px gray;
+}
+
+.gameResults {
+    font-size: 25px;
+    margin-bottom: 40px;
+}
+
+.playAgainButton {
+    font-size: 30px;
+}
